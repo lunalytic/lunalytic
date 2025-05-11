@@ -12,7 +12,7 @@
   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" width="120" alt="NumPy">
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png?raw=true" width="120" alt="Scikit Learn">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+  <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="120" alt="Bootstrap">
 </table>
 
 <div> 
