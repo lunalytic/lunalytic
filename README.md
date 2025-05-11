@@ -1,5 +1,6 @@
-<table align="center">
-  <h2>✨Hello World! I'm luna, be very welcome✨</h2>
+##✨Hello World! I'm luna, be very welcome✨
+
+<table>
   <a href="https://github.com/lunalytics">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunalytic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalytic&layout=compact&langs_count=6&theme=tokyonight"/>
