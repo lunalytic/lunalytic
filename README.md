@@ -24,6 +24,6 @@
 </div>
 
 <div>
-  <h1>English Level</h1>
+  <h2>English Level</h2>
   <img src="https://a.storyblok.com/f/79503/250x250/55b878c50b/group-3.png" width="240" alt="Test English">
 </div>
