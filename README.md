@@ -3,7 +3,7 @@
 <table>
   <a href="https://github.com/lunalytics">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunalytic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalytic&layout=compact&langs_count=6&theme=tokyonight"n\/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalytic&layout=compact&langs_count=6&theme=tokyonight"br\/>
     
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="120" alt="Vue.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
