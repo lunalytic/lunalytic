@@ -15,6 +15,10 @@
   <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="120" alt="SQL">
 </table>
 
+<div>
+  <img src="https://a.storyblok.com/f/79503/250x250/55b878c50b/group-3.png" width="120" alt="SQL">
+</div>
+
 <div> 
   <a href="https://www.youtube.com/@lunaalmeida7912" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/lunalytic/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
