@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/lunaalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <h2>English Level</h2>
   <img src="https://a.storyblok.com/f/79503/250x250/55b878c50b/group-3.png" width="300" alt="Test English">
 </div>
