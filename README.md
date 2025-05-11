@@ -15,14 +15,15 @@
   <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="120" alt="SQL">
 </table>
 
-<div>
-  <img src="https://a.storyblok.com/f/79503/250x250/55b878c50b/group-3.png" width="240" alt="Test English">
-</div>
-
 <div> 
   <a href="https://www.youtube.com/@lunaalmeida7912" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/lunalytic/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!a href="https://www.twitch.tv/leehxd_" target="_blank"><!img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto: almeida.essen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lunaalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div>
+  #English Level
+  <img src="https://a.storyblok.com/f/79503/250x250/55b878c50b/group-3.png" width="240" alt="Test English">
 </div>
