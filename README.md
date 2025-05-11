@@ -1,13 +1,13 @@
 # ✨Hello World! I'm luna, be very welcome✨
 
-<table align="center">
+<table>
   <a href="https://github.com/lunalytics">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunalytic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunalytic&layout=compact&langs_count=6&theme=tokyonight"/>
 
     
   \
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="120" alt="Python">
+  <img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="120" alt="Python">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" width="120" alt="Pandas">
   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" width="120" alt="NumPy">
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png?raw=true" width="120" alt="Scikit Learn">
