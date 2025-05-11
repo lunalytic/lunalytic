@@ -24,6 +24,6 @@
 </div>
 
 <div >
-  <h2 text-align: center;>English Level</h2>
+  <h2 *text-align: center;>English Level</h2>
   <img src="https://a.storyblok.com/f/79503/250x250/55b878c50b/group-3.png" width="300" alt="Test English">
 </div>
